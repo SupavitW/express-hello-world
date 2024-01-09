@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Tan is GAY</title>
+    <title>Tan is GAYLORD</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Tan is GAY
+      Tan is GAYLORD
     </section>
   </body>
 </html>
