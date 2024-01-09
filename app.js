@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>I love You <3 !</title>
+    <title>Tan is GAY</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      I love You <3 !
+      Tan is GAY
     </section>
   </body>
 </html>
